@@ -274,6 +274,6 @@ if __name__ == "__main__":
     FPSCLOCK=pygame.time.Clock();
     
    
-    GAME_SOUND['point']=pygame.mixer.Sound('C:\\Users\\acer lap\\Desktop\\flutter project\\audio\\point.wav');
+    GAME_SOUND['point']=pygame.mixer.Sound('enter the sound for point point.wav');
     
     main();
